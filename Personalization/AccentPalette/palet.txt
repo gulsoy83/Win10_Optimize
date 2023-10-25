@@ -1,0 +1,10 @@
+1. collapse yazı rengi
+2. aktif ikon altındaki cizgi
+3. start orb hover/ ses kaydırak
+4. aktif görevçubuğu sembol rengi/ action center buton basiliysa/ start button basiliysa
+5. baslat menusu /jumplist top /inaktif preview
+6. jumplist bottom/ baslat yan bolme / aktif preview
+7. taskbar
+8. 
+
+HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Accent
