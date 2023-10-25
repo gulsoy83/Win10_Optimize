@@ -1,0 +1,33 @@
+<Configuration ID="7327d2ea-4a61-42fa-acc9-3cec4e6ae6b2">
+  <Add OfficeClientEdition="64" Channel="PerpetualVL2021">
+    <Product ID="ProPlus2021Volume" PIDKEY="FXYTK-NJJ8C-GB6DW-3DYQT-6F7TH">
+      <Language ID="en-us" />
+      <ExcludeApp ID="Lync" />
+      <ExcludeApp ID="OneDrive" />
+      <ExcludeApp ID="Teams" />
+    </Product>
+    <Product ID="VisioPro2021Volume" PIDKEY="KNH8D-FGHT4-T8RK3-CTDYJ-K2HT4">
+      <Language ID="en-us" />
+      <ExcludeApp ID="Lync" />
+      <ExcludeApp ID="OneDrive" />
+      <ExcludeApp ID="Teams" />
+    </Product>
+    <Product ID="ProjectPro2021Volume" PIDKEY="FTNWT-C6WBT-8HMGF-K9PRX-QV9H8">
+      <Language ID="en-us" />
+      <ExcludeApp ID="Lync" />
+      <ExcludeApp ID="OneDrive" />
+      <ExcludeApp ID="Teams" />
+    </Product>
+    <Product ID="ProofingTools">
+      <Language ID="en-us" />
+      <Language ID="tr-tr" />
+    </Product>
+  </Add>
+  <Property Name="SharedComputerLicensing" Value="0" />
+  <Property Name="FORCEAPPSHUTDOWN" Value="FALSE" />
+  <Property Name="DeviceBasedLicensing" Value="0" />
+  <Property Name="SCLCacheOverride" Value="0" />
+  <Property Name="AUTOACTIVATE" Value="1" />
+  <Updates Enabled="FALSE" />
+  <RemoveMSI />
+</Configuration>

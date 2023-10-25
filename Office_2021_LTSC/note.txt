@@ -1,0 +1,2 @@
+cd /d C:\
+setup.exe /configure Configuration.xml
