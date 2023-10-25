@@ -1,0 +1,635 @@
+2023-08-21 19:53:24Z [Information]: ---------------------------------------------------------------
+2023-08-21 19:53:24Z [Information]: Rapr started
+2023-08-21 19:53:24Z [Information]: Scanning driver store...
+2023-08-21 19:53:36Z [Information]: Ready
+2023-08-21 19:53:47Z [Information]: Selected 15 Driver(s). Total size: 237 MB.
+oem11.inf - iigd_ext_2.inf_amd64_d2285aca173bb1ee - 180 KB
+oem127.inf - ssudadb.inf_amd64_8757ffee1d89731d - 2 MB
+oem131.inf - ssudmdm.inf_amd64_7ed81feed2e0de9a - 356 KB
+oem146.inf - cui_dch.inf_amd64_5d2e576bb8443cb9 - 20 MB
+oem150.inf - igcc_dch.inf_amd64_fd482888e9c3df70 - 14 MB
+oem18.inf - cui_dch.inf_amd64_0fbb2cdf4fb6467e - 19 MB
+oem19.inf - igcc_dch.inf_amd64_c3bfb56a1230fdfd - 15 MB
+oem250.inf - cui_dch.inf_amd64_9e0fe91378671ddd - 17 MB
+oem33.inf - hdxssthpbnb1.inf_amd64_05ab356cf6d83b68 - 58 MB
+oem330.inf - rtkfilter.inf_amd64_58a6582fe3a195c8 - 2 MB
+oem401.inf - hpcustomcapcomp.inf_amd64_555ffef7d4b43849 - 26 MB
+oem46.inf - cui_dch.inf_amd64_36a18191973f9619 - 17 MB
+oem60.inf - mewmiprov.inf_amd64_670360bdb5a40a0d - 3 MB
+oem61.inf - iclsclient.inf_amd64_45efd8a6478e15ce - 30 MB
+oem62.inf - wiman.inf_amd64_90fa924bcd61392a - 11 MB
+2023-08-21 19:54:26Z [Information]: Scanning driver store...
+2023-08-21 19:54:36Z [Information]: Ready
+2023-08-21 19:55:07Z [Information]: Selected 15 Driver(s). Total size: 237 MB.
+oem11.inf - iigd_ext_2.inf_amd64_d2285aca173bb1ee - 180 KB
+oem127.inf - ssudadb.inf_amd64_8757ffee1d89731d - 2 MB
+oem131.inf - ssudmdm.inf_amd64_7ed81feed2e0de9a - 356 KB
+oem146.inf - cui_dch.inf_amd64_5d2e576bb8443cb9 - 20 MB
+oem150.inf - igcc_dch.inf_amd64_fd482888e9c3df70 - 14 MB
+oem18.inf - cui_dch.inf_amd64_0fbb2cdf4fb6467e - 19 MB
+oem19.inf - igcc_dch.inf_amd64_c3bfb56a1230fdfd - 15 MB
+oem250.inf - cui_dch.inf_amd64_9e0fe91378671ddd - 17 MB
+oem33.inf - hdxssthpbnb1.inf_amd64_05ab356cf6d83b68 - 58 MB
+oem330.inf - rtkfilter.inf_amd64_58a6582fe3a195c8 - 2 MB
+oem401.inf - hpcustomcapcomp.inf_amd64_555ffef7d4b43849 - 26 MB
+oem46.inf - cui_dch.inf_amd64_36a18191973f9619 - 17 MB
+oem60.inf - mewmiprov.inf_amd64_670360bdb5a40a0d - 3 MB
+oem61.inf - iclsclient.inf_amd64_45efd8a6478e15ce - 30 MB
+oem62.inf - wiman.inf_amd64_90fa924bcd61392a - 11 MB
+2023-08-21 19:56:31Z [Information]: Scanning driver store...
+2023-08-21 19:56:41Z [Information]: Ready
+2023-08-21 19:56:47Z [Information]: Selected 15 Driver(s). Total size: 237 MB.
+oem11.inf - iigd_ext_2.inf_amd64_d2285aca173bb1ee - 180 KB
+oem127.inf - ssudadb.inf_amd64_8757ffee1d89731d - 2 MB
+oem131.inf - ssudmdm.inf_amd64_7ed81feed2e0de9a - 356 KB
+oem146.inf - cui_dch.inf_amd64_5d2e576bb8443cb9 - 20 MB
+oem150.inf - igcc_dch.inf_amd64_fd482888e9c3df70 - 14 MB
+oem18.inf - cui_dch.inf_amd64_0fbb2cdf4fb6467e - 19 MB
+oem19.inf - igcc_dch.inf_amd64_c3bfb56a1230fdfd - 15 MB
+oem250.inf - cui_dch.inf_amd64_9e0fe91378671ddd - 17 MB
+oem33.inf - hdxssthpbnb1.inf_amd64_05ab356cf6d83b68 - 58 MB
+oem330.inf - rtkfilter.inf_amd64_58a6582fe3a195c8 - 2 MB
+oem401.inf - hpcustomcapcomp.inf_amd64_555ffef7d4b43849 - 26 MB
+oem46.inf - cui_dch.inf_amd64_36a18191973f9619 - 17 MB
+oem60.inf - mewmiprov.inf_amd64_670360bdb5a40a0d - 3 MB
+oem61.inf - iclsclient.inf_amd64_45efd8a6478e15ce - 30 MB
+oem62.inf - wiman.inf_amd64_90fa924bcd61392a - 11 MB
+2023-08-21 19:57:03Z [Information]: Deleting driver package(s)...
+oem11.inf - iigd_ext_2.inf_amd64_d2285aca173bb1ee - 180 KB
+oem127.inf - ssudadb.inf_amd64_8757ffee1d89731d - 2 MB
+oem131.inf - ssudmdm.inf_amd64_7ed81feed2e0de9a - 356 KB
+oem146.inf - cui_dch.inf_amd64_5d2e576bb8443cb9 - 20 MB
+oem150.inf - igcc_dch.inf_amd64_fd482888e9c3df70 - 14 MB
+oem18.inf - cui_dch.inf_amd64_0fbb2cdf4fb6467e - 19 MB
+oem19.inf - igcc_dch.inf_amd64_c3bfb56a1230fdfd - 15 MB
+oem250.inf - cui_dch.inf_amd64_9e0fe91378671ddd - 17 MB
+oem33.inf - hdxssthpbnb1.inf_amd64_05ab356cf6d83b68 - 58 MB
+oem330.inf - rtkfilter.inf_amd64_58a6582fe3a195c8 - 2 MB
+oem401.inf - hpcustomcapcomp.inf_amd64_555ffef7d4b43849 - 26 MB
+oem46.inf - cui_dch.inf_amd64_36a18191973f9619 - 17 MB
+oem60.inf - mewmiprov.inf_amd64_670360bdb5a40a0d - 3 MB
+oem61.inf - iclsclient.inf_amd64_45efd8a6478e15ce - 30 MB
+oem62.inf - wiman.inf_amd64_90fa924bcd61392a - 11 MB
+2023-08-21 19:57:03Z [Error]: System.ComponentModel.Win32Exception (0x80004005): Unknown error (0xe000023d)
+   at Rapr.Utils.SetupAPI.DeleteDriver(DriverStoreEntry driverStoreEntry, Boolean forceDelete) in C:\projects\driverstoreexplorer\Rapr\Utils\SetupAPI.cs:line 147
+   at Rapr.Utils.DismUtil.DeleteDriver(DriverStoreEntry driverStoreEntry, Boolean forceDelete) in C:\projects\driverstoreexplorer\Rapr\Utils\DismUtil.cs:line 153
+2023-08-21 19:57:03Z [Information]: Deletion of oem11.inf (iigd_ext_2.inf_amd64_d2285aca173bb1ee) failed.
+2023-08-21 19:57:03Z [Information]: Deletion of oem127.inf (ssudadb.inf_amd64_8757ffee1d89731d) succeeded.
+2023-08-21 19:57:03Z [Information]: Deletion of oem131.inf (ssudmdm.inf_amd64_7ed81feed2e0de9a) succeeded.
+2023-08-21 19:57:04Z [Information]: Deletion of oem146.inf (cui_dch.inf_amd64_5d2e576bb8443cb9) succeeded.
+2023-08-21 19:57:04Z [Information]: Deletion of oem150.inf (igcc_dch.inf_amd64_fd482888e9c3df70) succeeded.
+2023-08-21 19:57:04Z [Information]: Deletion of oem18.inf (cui_dch.inf_amd64_0fbb2cdf4fb6467e) succeeded.
+2023-08-21 19:57:04Z [Information]: Deletion of oem19.inf (igcc_dch.inf_amd64_c3bfb56a1230fdfd) succeeded.
+2023-08-21 19:57:04Z [Information]: Deletion of oem250.inf (cui_dch.inf_amd64_9e0fe91378671ddd) succeeded.
+2023-08-21 19:57:05Z [Information]: Deletion of oem33.inf (hdxssthpbnb1.inf_amd64_05ab356cf6d83b68) succeeded.
+2023-08-21 19:57:05Z [Information]: Deletion of oem330.inf (rtkfilter.inf_amd64_58a6582fe3a195c8) succeeded.
+2023-08-21 19:57:05Z [Information]: Deletion of oem401.inf (hpcustomcapcomp.inf_amd64_555ffef7d4b43849) succeeded.
+2023-08-21 19:57:05Z [Information]: Deletion of oem46.inf (cui_dch.inf_amd64_36a18191973f9619) succeeded.
+2023-08-21 19:57:05Z [Information]: Deletion of oem60.inf (mewmiprov.inf_amd64_670360bdb5a40a0d) succeeded.
+2023-08-21 19:57:05Z [Information]: Deletion of oem61.inf (iclsclient.inf_amd64_45efd8a6478e15ce) succeeded.
+2023-08-21 19:57:05Z [Information]: Deletion of oem62.inf (wiman.inf_amd64_90fa924bcd61392a) succeeded.
+2023-08-21 19:57:15Z [Error]: Error removing some packages from driver store.
+[TIP: The driver may still being used. Try FORCE deleting the package]
+Deletion of oem11.inf (iigd_ext_2.inf_amd64_d2285aca173bb1ee) failed.
+Deletion of oem127.inf (ssudadb.inf_amd64_8757ffee1d89731d) succeeded.
+Deletion of oem131.inf (ssudmdm.inf_amd64_7ed81feed2e0de9a) succeeded.
+Deletion of oem146.inf (cui_dch.inf_amd64_5d2e576bb8443cb9) succeeded.
+Deletion of oem150.inf (igcc_dch.inf_amd64_fd482888e9c3df70) succeeded.
+Deletion of oem18.inf (cui_dch.inf_amd64_0fbb2cdf4fb6467e) succeeded.
+Deletion of oem19.inf (igcc_dch.inf_amd64_c3bfb56a1230fdfd) succeeded.
+Deletion of oem250.inf (cui_dch.inf_amd64_9e0fe91378671ddd) succeeded.
+Deletion of oem33.inf (hdxssthpbnb1.inf_amd64_05ab356cf6d83b68) succeeded.
+Deletion of oem330.inf (rtkfilter.inf_amd64_58a6582fe3a195c8) succeeded.
+Deletion of oem401.inf (hpcustomcapcomp.inf_amd64_555ffef7d4b43849) succeeded.
+Deletion of oem46.inf (cui_dch.inf_amd64_36a18191973f9619) succeeded.
+Deletion of oem60.inf (mewmiprov.inf_amd64_670360bdb5a40a0d) succeeded.
+Deletion of oem61.inf (iclsclient.inf_amd64_45efd8a6478e15ce) succeeded.
+Deletion of oem62.inf (wiman.inf_amd64_90fa924bcd61392a) succeeded.
+
+2023-08-21 19:57:21Z [Information]: Scanning driver store...
+2023-08-21 19:57:30Z [Information]: Ready
+2023-08-21 19:57:39Z [Information]: Selected 1 Driver(s). Total size: 180 KB.
+oem11.inf - iigd_ext_2.inf_amd64_d2285aca173bb1ee - 180 KB
+2023-08-21 19:58:00Z [Information]: Deleting driver package(s)...
+oem11.inf - iigd_ext_2.inf_amd64_d2285aca173bb1ee - 180 KB
+2023-08-21 19:58:02Z [Information]: Removed iigd_ext_2.inf (oem11.inf) from driver store.
+2023-08-21 19:58:26Z [Information]: Scanning driver store...
+2023-08-21 19:58:35Z [Information]: Ready
+2023-08-21 20:10:04Z [Information]: ---------------------------------------------------------------
+2023-08-21 20:10:04Z [Information]: Rapr started
+2023-08-21 20:10:04Z [Information]: Scanning driver store...
+2023-08-21 20:10:14Z [Information]: Ready
+2023-08-21 20:15:06Z [Information]: Shutting down - reason UserClosing
+2023-08-21 20:17:24Z [Information]: ---------------------------------------------------------------
+2023-08-21 20:17:24Z [Information]: Rapr started
+2023-08-21 20:17:24Z [Information]: Scanning driver store...
+2023-08-21 20:17:35Z [Information]: Ready
+2023-08-21 20:21:21Z [Information]: Shutting down - reason UserClosing
+2023-08-25 13:20:27Z [Information]: ---------------------------------------------------------------
+2023-08-25 13:20:28Z [Information]: Rapr started
+2023-08-25 13:20:28Z [Information]: Scanning driver store...
+2023-08-25 13:20:44Z [Information]: Ready
+2023-08-25 13:21:29Z [Information]: Selected 1 Driver(s). Total size: 7 MB.
+oem8.inf - netrtwlane6.inf_amd64_ad5e9d225858a053 - 7 MB
+2023-08-25 13:21:29Z [Information]: Selected 2 Driver(s). Total size: 19 MB.
+oem8.inf - netrtwlane6.inf_amd64_ad5e9d225858a053 - 7 MB
+oem9.inf - netrtwlane602.inf_amd64_aa71de944ea94bcf - 12 MB
+2023-08-25 13:23:34Z [Information]: Selected 3 Driver(s). Total size: 29 MB.
+oem334.inf - netrtwlane02.inf_amd64_d6658a77ca81746c - 10 MB
+oem8.inf - netrtwlane6.inf_amd64_ad5e9d225858a053 - 7 MB
+oem9.inf - netrtwlane602.inf_amd64_aa71de944ea94bcf - 12 MB
+2023-08-25 13:23:35Z [Information]: Selected 4 Driver(s). Total size: 42 MB.
+oem334.inf - netrtwlane02.inf_amd64_d6658a77ca81746c - 10 MB
+oem6.inf - netrtwlane.inf_amd64_2f0b9727430af6c9 - 13 MB
+oem8.inf - netrtwlane6.inf_amd64_ad5e9d225858a053 - 7 MB
+oem9.inf - netrtwlane602.inf_amd64_aa71de944ea94bcf - 12 MB
+2023-08-25 13:23:57Z [Information]: No drivers selected.
+2023-08-25 13:27:22Z [Information]: Selected 1 Driver(s). Total size: 7 MB.
+oem8.inf - netrtwlane6.inf_amd64_ad5e9d225858a053 - 7 MB
+2023-08-25 13:27:23Z [Information]: Selected 2 Driver(s). Total size: 19 MB.
+oem8.inf - netrtwlane6.inf_amd64_ad5e9d225858a053 - 7 MB
+oem9.inf - netrtwlane602.inf_amd64_aa71de944ea94bcf - 12 MB
+2023-08-25 13:27:24Z [Information]: Selected 3 Driver(s). Total size: 32 MB.
+oem6.inf - netrtwlane.inf_amd64_2f0b9727430af6c9 - 13 MB
+oem8.inf - netrtwlane6.inf_amd64_ad5e9d225858a053 - 7 MB
+oem9.inf - netrtwlane602.inf_amd64_aa71de944ea94bcf - 12 MB
+2023-08-25 13:27:30Z [Information]: Selected 4 Driver(s). Total size: 42 MB.
+oem334.inf - netrtwlane02.inf_amd64_d6658a77ca81746c - 10 MB
+oem6.inf - netrtwlane.inf_amd64_2f0b9727430af6c9 - 13 MB
+oem8.inf - netrtwlane6.inf_amd64_ad5e9d225858a053 - 7 MB
+oem9.inf - netrtwlane602.inf_amd64_aa71de944ea94bcf - 12 MB
+2023-08-25 13:27:53Z [Information]: Deleting driver package(s)...
+oem334.inf - netrtwlane02.inf_amd64_d6658a77ca81746c - 10 MB
+oem6.inf - netrtwlane.inf_amd64_2f0b9727430af6c9 - 13 MB
+oem8.inf - netrtwlane6.inf_amd64_ad5e9d225858a053 - 7 MB
+oem9.inf - netrtwlane602.inf_amd64_aa71de944ea94bcf - 12 MB
+2023-08-25 13:27:53Z [Information]: Deletion of oem334.inf (netrtwlane02.inf_amd64_d6658a77ca81746c) succeeded.
+2023-08-25 13:27:53Z [Information]: Deletion of oem6.inf (netrtwlane.inf_amd64_2f0b9727430af6c9) succeeded.
+2023-08-25 13:27:54Z [Information]: Deletion of oem8.inf (netrtwlane6.inf_amd64_ad5e9d225858a053) succeeded.
+2023-08-25 13:27:54Z [Information]: Deletion of oem9.inf (netrtwlane602.inf_amd64_aa71de944ea94bcf) succeeded.
+2023-08-25 13:27:54Z [Information]: Removed 4 packages from driver store.
+2023-08-25 13:27:57Z [Information]: Shutting down - reason UserClosing
+2023-08-25 13:33:20Z [Information]: ---------------------------------------------------------------
+2023-08-25 13:33:20Z [Information]: Rapr started
+2023-08-25 13:33:20Z [Information]: Scanning driver store...
+2023-08-25 13:33:29Z [Information]: Ready
+2023-08-25 13:33:56Z [Information]: Shutting down - reason UserClosing
+2023-08-27 12:55:15Z [Information]: ---------------------------------------------------------------
+2023-08-27 12:55:15Z [Information]: Rapr started
+2023-08-27 12:55:15Z [Information]: Scanning driver store...
+2023-08-27 12:55:31Z [Information]: Ready
+2023-08-27 12:56:31Z [Information]: Shutting down - reason UserClosing
+2023-09-12 14:36:56Z [Information]: ---------------------------------------------------------------
+2023-09-12 14:36:56Z [Information]: Rapr started
+2023-09-12 14:36:56Z [Information]: Scanning driver store...
+2023-09-12 14:37:08Z [Information]: Ready
+2023-09-12 14:37:10Z [Information]: Selected 10 Driver(s). Total size: 1.4 GB.
+oem131.inf - intcdaud.inf_amd64_2bc3bdfb89548e1f - 5 MB
+oem148.inf - cui_dch.inf_amd64_6673c5322430fc8a - 17 MB
+oem158.inf - hdbusext.inf_amd64_0bed73e776c8e0bf - 54 KB
+oem16.inf - iigd_ext_2.inf_amd64_d96e5091c6783f78 - 169 KB
+oem22.inf - iigd_dch.inf_amd64_0b6ffde85292cc1e - 1.4 GB
+oem33.inf - netrtwlane6.inf_amd64_190eb40ee14036ec - 434 KB
+oem37.inf - mshdadac.inf_amd64_3bc23603dc7e26e1 - 125 KB
+oem50.inf - igcc_dch.inf_amd64_86abb967c9462a29 - 12 MB
+oem71.inf - intcdaud.inf_amd64_5d859c98b498348f - 5 MB
+oem8.inf - netrtwlane02.inf_amd64_d6658a77ca81746c - 10 MB
+2023-09-12 14:38:13Z [Information]: Scanning driver store...
+2023-09-12 14:38:31Z [Information]: Ready
+2023-09-12 14:38:38Z [Information]: Selected 10 Driver(s). Total size: 1.4 GB.
+oem131.inf - intcdaud.inf_amd64_2bc3bdfb89548e1f - 5 MB
+oem148.inf - cui_dch.inf_amd64_6673c5322430fc8a - 17 MB
+oem158.inf - hdbusext.inf_amd64_0bed73e776c8e0bf - 54 KB
+oem16.inf - iigd_ext_2.inf_amd64_d96e5091c6783f78 - 169 KB
+oem22.inf - iigd_dch.inf_amd64_0b6ffde85292cc1e - 1.4 GB
+oem33.inf - netrtwlane6.inf_amd64_190eb40ee14036ec - 434 KB
+oem37.inf - mshdadac.inf_amd64_3bc23603dc7e26e1 - 125 KB
+oem50.inf - igcc_dch.inf_amd64_86abb967c9462a29 - 12 MB
+oem71.inf - intcdaud.inf_amd64_5d859c98b498348f - 5 MB
+oem8.inf - netrtwlane02.inf_amd64_d6658a77ca81746c - 10 MB
+2023-09-12 14:39:47Z [Information]: Selected 9 Driver(s). Total size: 1.4 GB.
+oem131.inf - intcdaud.inf_amd64_2bc3bdfb89548e1f - 5 MB
+oem148.inf - cui_dch.inf_amd64_6673c5322430fc8a - 17 MB
+oem158.inf - hdbusext.inf_amd64_0bed73e776c8e0bf - 54 KB
+oem16.inf - iigd_ext_2.inf_amd64_d96e5091c6783f78 - 169 KB
+oem22.inf - iigd_dch.inf_amd64_0b6ffde85292cc1e - 1.4 GB
+oem33.inf - netrtwlane6.inf_amd64_190eb40ee14036ec - 434 KB
+oem37.inf - mshdadac.inf_amd64_3bc23603dc7e26e1 - 125 KB
+oem50.inf - igcc_dch.inf_amd64_86abb967c9462a29 - 12 MB
+oem71.inf - intcdaud.inf_amd64_5d859c98b498348f - 5 MB
+2023-09-12 14:40:08Z [Information]: Deleting driver package(s)...
+oem131.inf - intcdaud.inf_amd64_2bc3bdfb89548e1f - 5 MB
+oem148.inf - cui_dch.inf_amd64_6673c5322430fc8a - 17 MB
+oem158.inf - hdbusext.inf_amd64_0bed73e776c8e0bf - 54 KB
+oem16.inf - iigd_ext_2.inf_amd64_d96e5091c6783f78 - 169 KB
+oem22.inf - iigd_dch.inf_amd64_0b6ffde85292cc1e - 1.4 GB
+oem33.inf - netrtwlane6.inf_amd64_190eb40ee14036ec - 434 KB
+oem37.inf - mshdadac.inf_amd64_3bc23603dc7e26e1 - 125 KB
+oem50.inf - igcc_dch.inf_amd64_86abb967c9462a29 - 12 MB
+oem71.inf - intcdaud.inf_amd64_5d859c98b498348f - 5 MB
+2023-09-12 14:40:11Z [Information]: Deletion of oem131.inf (intcdaud.inf_amd64_2bc3bdfb89548e1f) succeeded.
+2023-09-12 14:40:11Z [Information]: Deletion of oem148.inf (cui_dch.inf_amd64_6673c5322430fc8a) succeeded.
+2023-09-12 14:40:12Z [Information]: Deletion of oem158.inf (hdbusext.inf_amd64_0bed73e776c8e0bf) succeeded.
+2023-09-12 14:40:16Z [Error]: System.ComponentModel.Win32Exception (0x80004005): Unknown error (0xe000023d)
+   at Rapr.Utils.SetupAPI.DeleteDriver(DriverStoreEntry driverStoreEntry, Boolean forceDelete) in C:\projects\driverstoreexplorer\Rapr\Utils\SetupAPI.cs:line 147
+   at Rapr.Utils.DismUtil.DeleteDriver(DriverStoreEntry driverStoreEntry, Boolean forceDelete) in C:\projects\driverstoreexplorer\Rapr\Utils\DismUtil.cs:line 153
+2023-09-12 14:40:16Z [Information]: Deletion of oem16.inf (iigd_ext_2.inf_amd64_d96e5091c6783f78) failed.
+2023-09-12 14:40:17Z [Information]: Deletion of oem22.inf (iigd_dch.inf_amd64_0b6ffde85292cc1e) succeeded.
+2023-09-12 14:40:18Z [Information]: Deletion of oem33.inf (netrtwlane6.inf_amd64_190eb40ee14036ec) succeeded.
+2023-09-12 14:40:18Z [Information]: Deletion of oem37.inf (mshdadac.inf_amd64_3bc23603dc7e26e1) succeeded.
+2023-09-12 14:40:18Z [Information]: Deletion of oem50.inf (igcc_dch.inf_amd64_86abb967c9462a29) succeeded.
+2023-09-12 14:40:21Z [Information]: Deletion of oem71.inf (intcdaud.inf_amd64_5d859c98b498348f) succeeded.
+2023-09-12 14:40:35Z [Error]: Error removing some packages from driver store.
+Deletion of oem131.inf (intcdaud.inf_amd64_2bc3bdfb89548e1f) succeeded.
+Deletion of oem148.inf (cui_dch.inf_amd64_6673c5322430fc8a) succeeded.
+Deletion of oem158.inf (hdbusext.inf_amd64_0bed73e776c8e0bf) succeeded.
+Deletion of oem16.inf (iigd_ext_2.inf_amd64_d96e5091c6783f78) failed.
+Deletion of oem22.inf (iigd_dch.inf_amd64_0b6ffde85292cc1e) succeeded.
+Deletion of oem33.inf (netrtwlane6.inf_amd64_190eb40ee14036ec) succeeded.
+Deletion of oem37.inf (mshdadac.inf_amd64_3bc23603dc7e26e1) succeeded.
+Deletion of oem50.inf (igcc_dch.inf_amd64_86abb967c9462a29) succeeded.
+Deletion of oem71.inf (intcdaud.inf_amd64_5d859c98b498348f) succeeded.
+
+2023-09-12 14:40:47Z [Information]: Selected 2 Driver(s). Total size: 10 MB.
+oem16.inf - iigd_ext_2.inf_amd64_d96e5091c6783f78 - 169 KB
+oem8.inf - netrtwlane02.inf_amd64_d6658a77ca81746c - 10 MB
+2023-09-12 14:40:53Z [Information]: Shutting down - reason UserClosing
+2023-09-12 14:41:46Z [Information]: ---------------------------------------------------------------
+2023-09-12 14:41:46Z [Information]: Rapr started
+2023-09-12 14:41:46Z [Information]: Scanning driver store...
+2023-09-12 14:41:56Z [Information]: Ready
+2023-09-12 14:41:59Z [Information]: Selected 2 Driver(s). Total size: 10 MB.
+oem16.inf - iigd_ext_2.inf_amd64_d96e5091c6783f78 - 169 KB
+oem8.inf - netrtwlane02.inf_amd64_d6658a77ca81746c - 10 MB
+2023-09-12 14:42:09Z [Information]: Selected 1 Driver(s). Total size: 169 KB.
+oem16.inf - iigd_ext_2.inf_amd64_d96e5091c6783f78 - 169 KB
+2023-09-12 14:42:13Z [Information]: Deleting driver package(s)...
+oem16.inf - iigd_ext_2.inf_amd64_d96e5091c6783f78 - 169 KB
+2023-09-12 14:42:17Z [Error]: System.ComponentModel.Win32Exception (0x80004005): Unknown error (0xe000023d)
+   at Rapr.Utils.SetupAPI.DeleteDriver(DriverStoreEntry driverStoreEntry, Boolean forceDelete) in C:\projects\driverstoreexplorer\Rapr\Utils\SetupAPI.cs:line 147
+   at Rapr.Utils.DismUtil.DeleteDriver(DriverStoreEntry driverStoreEntry, Boolean forceDelete) in C:\projects\driverstoreexplorer\Rapr\Utils\DismUtil.cs:line 153
+2023-09-12 14:42:27Z [Error]: Error removing iigd_ext_2.inf (oem16.inf) from driver store.
+2023-09-12 14:42:38Z [Information]: Shutting down - reason UserClosing
+2023-09-12 14:44:21Z [Information]: ---------------------------------------------------------------
+2023-09-12 14:44:21Z [Information]: Rapr started
+2023-09-12 14:44:21Z [Information]: Scanning driver store...
+2023-09-12 14:44:31Z [Information]: Ready
+2023-09-12 14:44:34Z [Information]: Selected 2 Driver(s). Total size: 10 MB.
+oem16.inf - iigd_ext_2.inf_amd64_d96e5091c6783f78 - 169 KB
+oem8.inf - netrtwlane02.inf_amd64_d6658a77ca81746c - 10 MB
+2023-09-12 14:44:39Z [Information]: Selected 1 Driver(s). Total size: 169 KB.
+oem16.inf - iigd_ext_2.inf_amd64_d96e5091c6783f78 - 169 KB
+2023-09-12 14:44:43Z [Information]: Deleting driver package(s)...
+oem16.inf - iigd_ext_2.inf_amd64_d96e5091c6783f78 - 169 KB
+2023-09-12 14:44:44Z [Error]: System.ComponentModel.Win32Exception (0x80004005): Unknown error (0xe000023d)
+   at Rapr.Utils.SetupAPI.DeleteDriver(DriverStoreEntry driverStoreEntry, Boolean forceDelete) in C:\projects\driverstoreexplorer\Rapr\Utils\SetupAPI.cs:line 147
+   at Rapr.Utils.DismUtil.DeleteDriver(DriverStoreEntry driverStoreEntry, Boolean forceDelete) in C:\projects\driverstoreexplorer\Rapr\Utils\DismUtil.cs:line 153
+2023-09-12 14:44:53Z [Error]: Error removing iigd_ext_2.inf (oem16.inf) from driver store.
+2023-09-12 14:45:03Z [Information]: Selected 2 Driver(s). Total size: 10 MB.
+oem16.inf - iigd_ext_2.inf_amd64_d96e5091c6783f78 - 169 KB
+oem8.inf - netrtwlane02.inf_amd64_d6658a77ca81746c - 10 MB
+2023-09-12 14:45:09Z [Information]: Deleting driver package(s)...
+oem16.inf - iigd_ext_2.inf_amd64_d96e5091c6783f78 - 169 KB
+2023-09-12 14:45:09Z [Error]: System.ComponentModel.Win32Exception (0x80004005): Unknown error (0xe000023d)
+   at Rapr.Utils.SetupAPI.DeleteDriver(DriverStoreEntry driverStoreEntry, Boolean forceDelete) in C:\projects\driverstoreexplorer\Rapr\Utils\SetupAPI.cs:line 147
+   at Rapr.Utils.DismUtil.DeleteDriver(DriverStoreEntry driverStoreEntry, Boolean forceDelete) in C:\projects\driverstoreexplorer\Rapr\Utils\DismUtil.cs:line 153
+2023-09-12 14:45:18Z [Error]: Error removing iigd_ext_2.inf (oem16.inf) from driver store.
+[TIP: The driver may still being used. Try FORCE deleting the package]
+2023-09-12 14:45:28Z [Information]: Selected 2 Driver(s). Total size: 10 MB.
+oem16.inf - iigd_ext_2.inf_amd64_d96e5091c6783f78 - 169 KB
+oem8.inf - netrtwlane02.inf_amd64_d6658a77ca81746c - 10 MB
+2023-09-12 14:45:32Z [Information]: Selected 1 Driver(s). Total size: 169 KB.
+oem16.inf - iigd_ext_2.inf_amd64_d96e5091c6783f78 - 169 KB
+2023-09-12 14:45:50Z [Information]: Deleting driver package(s)...
+oem16.inf - iigd_ext_2.inf_amd64_d96e5091c6783f78 - 169 KB
+2023-09-12 14:45:51Z [Error]: System.ComponentModel.Win32Exception (0x80004005): Unknown error (0xe000023d)
+   at Rapr.Utils.SetupAPI.DeleteDriver(DriverStoreEntry driverStoreEntry, Boolean forceDelete) in C:\projects\driverstoreexplorer\Rapr\Utils\SetupAPI.cs:line 147
+   at Rapr.Utils.DismUtil.DeleteDriver(DriverStoreEntry driverStoreEntry, Boolean forceDelete) in C:\projects\driverstoreexplorer\Rapr\Utils\DismUtil.cs:line 153
+2023-09-12 14:46:00Z [Error]: Error removing iigd_ext_2.inf (oem16.inf) from driver store.
+2023-09-12 14:46:03Z [Information]: Shutting down - reason UserClosing
+2023-09-12 14:49:10Z [Information]: ---------------------------------------------------------------
+2023-09-12 14:49:10Z [Information]: Rapr started
+2023-09-12 14:49:10Z [Information]: Scanning driver store...
+2023-09-12 14:49:19Z [Information]: Ready
+2023-09-12 14:49:20Z [Information]: Selected 1 Driver(s). Total size: 10 MB.
+oem8.inf - netrtwlane02.inf_amd64_d6658a77ca81746c - 10 MB
+2023-09-12 14:49:29Z [Information]: Shutting down - reason UserClosing
+2023-09-12 15:00:14Z [Information]: ---------------------------------------------------------------
+2023-09-12 15:00:14Z [Information]: Rapr started
+2023-09-12 15:00:14Z [Information]: Scanning driver store...
+2023-09-12 15:00:25Z [Information]: Ready
+2023-09-12 15:00:26Z [Information]: Selected 4 Driver(s). Total size: 15 MB.
+oem127.inf - iigd_ext_2.inf_amd64_d96e5091c6783f78 - 120 KB
+oem22.inf - intcdaud.inf_amd64_2bc3bdfb89548e1f - 5 MB
+oem71.inf - iigd_ext_2.inf_amd64_d2285aca173bb1ee - 120 KB
+oem8.inf - netrtwlane02.inf_amd64_d6658a77ca81746c - 10 MB
+2023-09-12 15:00:53Z [Information]: Shutting down - reason UserClosing
+2023-09-23 21:02:11Z [Information]: ---------------------------------------------------------------
+2023-09-23 21:02:11Z [Information]: Rapr started
+2023-09-23 21:02:11Z [Information]: Scanning driver store...
+2023-09-23 21:02:24Z [Information]: Ready
+2023-09-23 21:02:32Z [Information]: Selected 9 Driver(s). Total size: 68 MB.
+oem11.inf - netrtwlane601.inf_amd64_b11117f0084d55c8 - 9 MB
+oem155.inf - hpcustomcapcomp.inf_amd64_766c68ffd261771b - 29 MB
+oem20.inf - hpqkbsoftwarecompnent.inf_amd64_5c0b90ae6269072a - 8 MB
+oem260.inf - wiman.inf_amd64_f8dbb140e86553d1 - 11 MB
+oem295.inf - mewmiprov.inf_amd64_53ed758d7f7447bb - 3 MB
+oem31.inf - spuvcbvir1.inf_amd64_2ed452119e97e77e - 57 KB
+oem44.inf - spuvcbv22.inf_amd64_6e15c2d59a2c14ed - 5 MB
+oem51.inf - hdbusext.inf_amd64_7cbb0db83f054d5c - 107 KB
+oem63.inf - dal.inf_amd64_b5484efd38adbe8d - 2 MB
+2023-09-23 21:03:52Z [Information]: Selected 8 Driver(s). Total size: 60 MB.
+oem11.inf - netrtwlane601.inf_amd64_b11117f0084d55c8 - 9 MB
+oem155.inf - hpcustomcapcomp.inf_amd64_766c68ffd261771b - 29 MB
+oem260.inf - wiman.inf_amd64_f8dbb140e86553d1 - 11 MB
+oem295.inf - mewmiprov.inf_amd64_53ed758d7f7447bb - 3 MB
+oem31.inf - spuvcbvir1.inf_amd64_2ed452119e97e77e - 57 KB
+oem44.inf - spuvcbv22.inf_amd64_6e15c2d59a2c14ed - 5 MB
+oem51.inf - hdbusext.inf_amd64_7cbb0db83f054d5c - 107 KB
+oem63.inf - dal.inf_amd64_b5484efd38adbe8d - 2 MB
+2023-09-23 21:03:53Z [Information]: Selected 7 Driver(s). Total size: 30 MB.
+oem11.inf - netrtwlane601.inf_amd64_b11117f0084d55c8 - 9 MB
+oem260.inf - wiman.inf_amd64_f8dbb140e86553d1 - 11 MB
+oem295.inf - mewmiprov.inf_amd64_53ed758d7f7447bb - 3 MB
+oem31.inf - spuvcbvir1.inf_amd64_2ed452119e97e77e - 57 KB
+oem44.inf - spuvcbv22.inf_amd64_6e15c2d59a2c14ed - 5 MB
+oem51.inf - hdbusext.inf_amd64_7cbb0db83f054d5c - 107 KB
+oem63.inf - dal.inf_amd64_b5484efd38adbe8d - 2 MB
+2023-09-23 21:04:05Z [Information]: Selected 6 Driver(s). Total size: 30 MB.
+oem11.inf - netrtwlane601.inf_amd64_b11117f0084d55c8 - 9 MB
+oem260.inf - wiman.inf_amd64_f8dbb140e86553d1 - 11 MB
+oem295.inf - mewmiprov.inf_amd64_53ed758d7f7447bb - 3 MB
+oem31.inf - spuvcbvir1.inf_amd64_2ed452119e97e77e - 57 KB
+oem44.inf - spuvcbv22.inf_amd64_6e15c2d59a2c14ed - 5 MB
+oem63.inf - dal.inf_amd64_b5484efd38adbe8d - 2 MB
+2023-09-23 21:04:13Z [Information]: Deleting driver package(s)...
+oem11.inf - netrtwlane601.inf_amd64_b11117f0084d55c8 - 9 MB
+oem260.inf - wiman.inf_amd64_f8dbb140e86553d1 - 11 MB
+oem295.inf - mewmiprov.inf_amd64_53ed758d7f7447bb - 3 MB
+oem31.inf - spuvcbvir1.inf_amd64_2ed452119e97e77e - 57 KB
+oem44.inf - spuvcbv22.inf_amd64_6e15c2d59a2c14ed - 5 MB
+oem63.inf - dal.inf_amd64_b5484efd38adbe8d - 2 MB
+2023-09-23 21:04:13Z [Information]: Deletion of oem11.inf (netrtwlane601.inf_amd64_b11117f0084d55c8) succeeded.
+2023-09-23 21:04:14Z [Information]: Deletion of oem260.inf (wiman.inf_amd64_f8dbb140e86553d1) succeeded.
+2023-09-23 21:04:14Z [Information]: Deletion of oem295.inf (mewmiprov.inf_amd64_53ed758d7f7447bb) succeeded.
+2023-09-23 21:04:14Z [Information]: Deletion of oem31.inf (spuvcbvir1.inf_amd64_2ed452119e97e77e) succeeded.
+2023-09-23 21:04:15Z [Information]: Deletion of oem44.inf (spuvcbv22.inf_amd64_6e15c2d59a2c14ed) succeeded.
+2023-09-23 21:04:15Z [Information]: Deletion of oem63.inf (dal.inf_amd64_b5484efd38adbe8d) succeeded.
+2023-09-23 21:04:15Z [Information]: Removed 6 packages from driver store.
+2023-09-23 21:04:19Z [Information]: Shutting down - reason UserClosing
+2023-09-23 21:06:45Z [Information]: ---------------------------------------------------------------
+2023-09-23 21:06:45Z [Information]: Rapr started
+2023-09-23 21:06:45Z [Information]: Scanning driver store...
+2023-09-23 21:06:58Z [Information]: Ready
+2023-09-23 21:09:38Z [Information]: Selected 3 Driver(s). Total size: 37 MB.
+oem155.inf - hpcustomcapcomp.inf_amd64_766c68ffd261771b - 29 MB
+oem20.inf - hpqkbsoftwarecompnent.inf_amd64_5c0b90ae6269072a - 8 MB
+oem51.inf - hdbusext.inf_amd64_7cbb0db83f054d5c - 107 KB
+2023-09-23 21:09:57Z [Information]: Shutting down - reason UserClosing
+2023-09-24 02:09:33Z [Information]: ---------------------------------------------------------------
+2023-09-24 02:09:33Z [Information]: Rapr started
+2023-09-24 02:09:33Z [Information]: Scanning driver store...
+2023-09-24 02:09:48Z [Information]: Ready
+2023-09-24 02:10:05Z [Information]: Selected 2 Driver(s). Total size: 37 MB.
+oem155.inf - hpcustomcapcomp.inf_amd64_766c68ffd261771b - 29 MB
+oem20.inf - hpqkbsoftwarecompnent.inf_amd64_5c0b90ae6269072a - 8 MB
+2023-09-24 02:10:14Z [Information]: Shutting down - reason UserClosing
+2023-09-24 11:34:40Z [Information]: ---------------------------------------------------------------
+2023-09-24 11:34:40Z [Information]: Rapr started
+2023-09-24 11:34:41Z [Information]: Scanning driver store...
+2023-09-24 11:35:04Z [Information]: Ready
+2023-09-24 11:35:38Z [Information]: Shutting down - reason UserClosing
+2023-09-24 11:37:07Z [Information]: ---------------------------------------------------------------
+2023-09-24 11:37:07Z [Information]: Rapr started
+2023-09-24 11:37:07Z [Information]: Scanning driver store...
+2023-09-24 11:37:16Z [Information]: Ready
+2023-09-24 11:37:19Z [Information]: Selected 2 Driver(s). Total size: 37 MB.
+oem155.inf - hpcustomcapcomp.inf_amd64_766c68ffd261771b - 29 MB
+oem20.inf - hpqkbsoftwarecompnent.inf_amd64_5c0b90ae6269072a - 8 MB
+2023-09-24 11:37:40Z [Information]: Shutting down - reason UserClosing
+2023-09-24 11:41:35Z [Information]: ---------------------------------------------------------------
+2023-09-24 11:41:35Z [Information]: Rapr started
+2023-09-24 11:41:35Z [Information]: Scanning driver store...
+2023-09-24 11:41:52Z [Information]: Ready
+2023-09-24 11:42:07Z [Information]: Selected 1 Driver(s). Total size: 12 MB.
+oem18.inf - netrtwlane602.inf_amd64_aa71de944ea94bcf - 12 MB
+2023-09-24 11:42:08Z [Information]: Selected 2 Driver(s). Total size: 21 MB.
+oem18.inf - netrtwlane602.inf_amd64_aa71de944ea94bcf - 12 MB
+oem4.inf - netrtwlane601.inf_amd64_b11117f0084d55c8 - 9 MB
+2023-09-24 11:42:08Z [Information]: Selected 3 Driver(s). Total size: 28 MB.
+oem18.inf - netrtwlane602.inf_amd64_aa71de944ea94bcf - 12 MB
+oem4.inf - netrtwlane601.inf_amd64_b11117f0084d55c8 - 9 MB
+oem9.inf - netrtwlane6.inf_amd64_ad5e9d225858a053 - 7 MB
+2023-09-24 11:42:20Z [Information]: Selected 4 Driver(s). Total size: 41 MB.
+oem18.inf - netrtwlane602.inf_amd64_aa71de944ea94bcf - 12 MB
+oem4.inf - netrtwlane601.inf_amd64_b11117f0084d55c8 - 9 MB
+oem6.inf - netrtwlane.inf_amd64_2f0b9727430af6c9 - 13 MB
+oem9.inf - netrtwlane6.inf_amd64_ad5e9d225858a053 - 7 MB
+2023-09-24 11:42:25Z [Information]: Selected 5 Driver(s). Total size: 51 MB.
+oem18.inf - netrtwlane602.inf_amd64_aa71de944ea94bcf - 12 MB
+oem4.inf - netrtwlane601.inf_amd64_b11117f0084d55c8 - 9 MB
+oem6.inf - netrtwlane.inf_amd64_2f0b9727430af6c9 - 13 MB
+oem8.inf - netrtwlane02.inf_amd64_d6658a77ca81746c - 10 MB
+oem9.inf - netrtwlane6.inf_amd64_ad5e9d225858a053 - 7 MB
+2023-09-24 11:42:47Z [Information]: Deleting driver package(s)...
+oem18.inf - netrtwlane602.inf_amd64_aa71de944ea94bcf - 12 MB
+oem4.inf - netrtwlane601.inf_amd64_b11117f0084d55c8 - 9 MB
+oem6.inf - netrtwlane.inf_amd64_2f0b9727430af6c9 - 13 MB
+oem8.inf - netrtwlane02.inf_amd64_d6658a77ca81746c - 10 MB
+oem9.inf - netrtwlane6.inf_amd64_ad5e9d225858a053 - 7 MB
+2023-09-24 11:42:48Z [Information]: Deletion of oem18.inf (netrtwlane602.inf_amd64_aa71de944ea94bcf) succeeded.
+2023-09-24 11:42:49Z [Information]: Deletion of oem4.inf (netrtwlane601.inf_amd64_b11117f0084d55c8) succeeded.
+2023-09-24 11:42:49Z [Information]: Deletion of oem6.inf (netrtwlane.inf_amd64_2f0b9727430af6c9) succeeded.
+2023-09-24 11:42:49Z [Information]: Deletion of oem8.inf (netrtwlane02.inf_amd64_d6658a77ca81746c) succeeded.
+2023-09-24 11:42:49Z [Information]: Deletion of oem9.inf (netrtwlane6.inf_amd64_ad5e9d225858a053) succeeded.
+2023-09-24 11:42:49Z [Information]: Removed 5 packages from driver store.
+2023-09-24 11:42:51Z [Information]: Shutting down - reason UserClosing
+2023-09-24 11:47:20Z [Information]: ---------------------------------------------------------------
+2023-09-24 11:47:20Z [Information]: Rapr started
+2023-09-24 11:47:20Z [Information]: Scanning driver store...
+2023-09-24 11:47:37Z [Information]: Ready
+2023-09-24 11:50:00Z [Information]: Scanning driver store...
+2023-09-24 11:50:15Z [Information]: Ready
+2023-09-24 11:50:49Z [Information]: Shutting down - reason UserClosing
+2023-09-24 11:59:34Z [Information]: ---------------------------------------------------------------
+2023-09-24 11:59:34Z [Information]: Rapr started
+2023-09-24 11:59:34Z [Information]: Scanning driver store...
+2023-09-24 11:59:51Z [Information]: Ready
+2023-09-24 12:00:06Z [Information]: Selected 5 Driver(s). Total size: 66 MB.
+oem155.inf - hpcustomcapcomp.inf_amd64_766c68ffd261771b - 29 MB
+oem20.inf - hpqkbsoftwarecompnent.inf_amd64_5c0b90ae6269072a - 8 MB
+oem254.inf - dlidusb.inf_amd64_538a17b2d993f0c4 - 29 MB
+oem255.inf - dlcdcncm.inf_amd64_4a54443ea2e51e16 - 242 KB
+oem256.inf - dlusbaudio.inf_amd64_1ee99a000d7a2045 - 412 KB
+2023-09-24 12:00:46Z [Information]: Selected 4 Driver(s). Total size: 58 MB.
+oem155.inf - hpcustomcapcomp.inf_amd64_766c68ffd261771b - 29 MB
+oem254.inf - dlidusb.inf_amd64_538a17b2d993f0c4 - 29 MB
+oem255.inf - dlcdcncm.inf_amd64_4a54443ea2e51e16 - 242 KB
+oem256.inf - dlusbaudio.inf_amd64_1ee99a000d7a2045 - 412 KB
+2023-09-24 12:00:52Z [Information]: Deleting driver package(s)...
+oem155.inf - hpcustomcapcomp.inf_amd64_766c68ffd261771b - 29 MB
+oem254.inf - dlidusb.inf_amd64_538a17b2d993f0c4 - 29 MB
+oem255.inf - dlcdcncm.inf_amd64_4a54443ea2e51e16 - 242 KB
+oem256.inf - dlusbaudio.inf_amd64_1ee99a000d7a2045 - 412 KB
+2023-09-24 12:00:52Z [Information]: Deletion of oem155.inf (hpcustomcapcomp.inf_amd64_766c68ffd261771b) succeeded.
+2023-09-24 12:00:53Z [Information]: Deletion of oem254.inf (dlidusb.inf_amd64_538a17b2d993f0c4) succeeded.
+2023-09-24 12:00:54Z [Information]: Deletion of oem255.inf (dlcdcncm.inf_amd64_4a54443ea2e51e16) succeeded.
+2023-09-24 12:00:54Z [Information]: Deletion of oem256.inf (dlusbaudio.inf_amd64_1ee99a000d7a2045) succeeded.
+2023-09-24 12:00:54Z [Information]: Removed 4 packages from driver store.
+2023-09-24 12:00:55Z [Information]: Shutting down - reason UserClosing
+2023-09-24 12:03:27Z [Information]: ---------------------------------------------------------------
+2023-09-24 12:03:27Z [Information]: Rapr started
+2023-09-24 12:03:27Z [Information]: Scanning driver store...
+2023-09-24 12:03:59Z [Information]: Ready
+2023-09-24 12:04:08Z [Information]: Selected 24 Driver(s). Total size: 428 MB.
+oem10.inf - intcdmic.inf_amd64_c6097727a94da534 - 941 KB
+oem20.inf - hpqkbsoftwarecompnent.inf_amd64_5c0b90ae6269072a - 8 MB
+oem251.inf - rtkfilter.inf_amd64_a6fc2626024af2a9 - 24 KB
+oem34.inf - seapo64ext.inf_amd64_7ff3d29d20e44a25 - 20 MB
+oem345.inf - intcsdw.inf_amd64_8223958341e2df9d - 1 MB
+oem346.inf - intcsst.inf_amd64_7657b9ba69bd4e2a - 1006 KB
+oem348.inf - intcbtau.inf_amd64_813aa78e6e9ced51 - 1019 KB
+oem35.inf - hdx_hpext_hsa.inf_amd64_6814df66a8c2787d - 687 KB
+oem351.inf - intelmvaextension.inf_amd64_1ec3665779931ec5 - 2 MB
+oem352.inf - hdx_hpext_sr_forte2.inf_amd64_301633b04bb4d3df - 2 MB
+oem357.inf - hdx_hpext_apot_103c8981.inf_amd64_70aaf6d3189f8d09 - 3 MB
+oem36.inf - hdx_hpext_sr_forte_hybrid.inf_amd64_5248c5c71928b280 - 468 KB
+oem362.inf - hdx_hpext_apot_ac85_c.inf_amd64_803e2cc52fd52365 - 11 MB
+oem375.inf - intcdmicextc_hp_00000000.inf_amd64_9f1828f8fed66813 - 2 MB
+oem376.inf - intcdmicexts_hp_103c888c.inf_amd64_d75a9bbdd4494899 - 7 MB
+oem377.inf - intcdmicextt_hp_103c888c.inf_amd64_875015009c47ecc5 - 3 MB
+oem384.inf - intcdmicext_hp.inf_amd64_11f7edc0ee08c9b6 - 3 MB
+oem385.inf - hdxacphpbnb.inf_amd64_d9b70288ae6d03f6 - 60 MB
+oem386.inf - hdxhaphpbnb1.inf_amd64_eb5abc91788275f5 - 61 MB
+oem387.inf - hdxhpbnb.inf_amd64_66e64eeb6d01ac81 - 60 MB
+oem388.inf - hdxhpbnb1.inf_amd64_5e1d7914318ec1b2 - 60 MB
+oem389.inf - hdxssthpbnb.inf_amd64_6cb9ff584bbced72 - 60 MB
+oem390.inf - hdxssthpbnb1.inf_amd64_fe94fbcbf95ab2dd - 60 MB
+oem7.inf - intcusb.inf_amd64_d97909364d9908a5 - 1 MB
+2023-09-24 12:04:41Z [Information]: Selected 23 Driver(s). Total size: 420 MB.
+oem10.inf - intcdmic.inf_amd64_c6097727a94da534 - 941 KB
+oem251.inf - rtkfilter.inf_amd64_a6fc2626024af2a9 - 24 KB
+oem34.inf - seapo64ext.inf_amd64_7ff3d29d20e44a25 - 20 MB
+oem345.inf - intcsdw.inf_amd64_8223958341e2df9d - 1 MB
+oem346.inf - intcsst.inf_amd64_7657b9ba69bd4e2a - 1006 KB
+oem348.inf - intcbtau.inf_amd64_813aa78e6e9ced51 - 1019 KB
+oem35.inf - hdx_hpext_hsa.inf_amd64_6814df66a8c2787d - 687 KB
+oem351.inf - intelmvaextension.inf_amd64_1ec3665779931ec5 - 2 MB
+oem352.inf - hdx_hpext_sr_forte2.inf_amd64_301633b04bb4d3df - 2 MB
+oem357.inf - hdx_hpext_apot_103c8981.inf_amd64_70aaf6d3189f8d09 - 3 MB
+oem36.inf - hdx_hpext_sr_forte_hybrid.inf_amd64_5248c5c71928b280 - 468 KB
+oem362.inf - hdx_hpext_apot_ac85_c.inf_amd64_803e2cc52fd52365 - 11 MB
+oem375.inf - intcdmicextc_hp_00000000.inf_amd64_9f1828f8fed66813 - 2 MB
+oem376.inf - intcdmicexts_hp_103c888c.inf_amd64_d75a9bbdd4494899 - 7 MB
+oem377.inf - intcdmicextt_hp_103c888c.inf_amd64_875015009c47ecc5 - 3 MB
+oem384.inf - intcdmicext_hp.inf_amd64_11f7edc0ee08c9b6 - 3 MB
+oem385.inf - hdxacphpbnb.inf_amd64_d9b70288ae6d03f6 - 60 MB
+oem386.inf - hdxhaphpbnb1.inf_amd64_eb5abc91788275f5 - 61 MB
+oem387.inf - hdxhpbnb.inf_amd64_66e64eeb6d01ac81 - 60 MB
+oem388.inf - hdxhpbnb1.inf_amd64_5e1d7914318ec1b2 - 60 MB
+oem389.inf - hdxssthpbnb.inf_amd64_6cb9ff584bbced72 - 60 MB
+oem390.inf - hdxssthpbnb1.inf_amd64_fe94fbcbf95ab2dd - 60 MB
+oem7.inf - intcusb.inf_amd64_d97909364d9908a5 - 1 MB
+2023-09-24 12:06:04Z [Information]: Deleting driver package(s)...
+oem10.inf - intcdmic.inf_amd64_c6097727a94da534 - 941 KB
+oem251.inf - rtkfilter.inf_amd64_a6fc2626024af2a9 - 24 KB
+oem34.inf - seapo64ext.inf_amd64_7ff3d29d20e44a25 - 20 MB
+oem345.inf - intcsdw.inf_amd64_8223958341e2df9d - 1 MB
+oem346.inf - intcsst.inf_amd64_7657b9ba69bd4e2a - 1006 KB
+oem348.inf - intcbtau.inf_amd64_813aa78e6e9ced51 - 1019 KB
+oem35.inf - hdx_hpext_hsa.inf_amd64_6814df66a8c2787d - 687 KB
+oem351.inf - intelmvaextension.inf_amd64_1ec3665779931ec5 - 2 MB
+oem352.inf - hdx_hpext_sr_forte2.inf_amd64_301633b04bb4d3df - 2 MB
+oem357.inf - hdx_hpext_apot_103c8981.inf_amd64_70aaf6d3189f8d09 - 3 MB
+oem36.inf - hdx_hpext_sr_forte_hybrid.inf_amd64_5248c5c71928b280 - 468 KB
+oem362.inf - hdx_hpext_apot_ac85_c.inf_amd64_803e2cc52fd52365 - 11 MB
+oem375.inf - intcdmicextc_hp_00000000.inf_amd64_9f1828f8fed66813 - 2 MB
+oem376.inf - intcdmicexts_hp_103c888c.inf_amd64_d75a9bbdd4494899 - 7 MB
+oem377.inf - intcdmicextt_hp_103c888c.inf_amd64_875015009c47ecc5 - 3 MB
+oem384.inf - intcdmicext_hp.inf_amd64_11f7edc0ee08c9b6 - 3 MB
+oem385.inf - hdxacphpbnb.inf_amd64_d9b70288ae6d03f6 - 60 MB
+oem386.inf - hdxhaphpbnb1.inf_amd64_eb5abc91788275f5 - 61 MB
+oem387.inf - hdxhpbnb.inf_amd64_66e64eeb6d01ac81 - 60 MB
+oem388.inf - hdxhpbnb1.inf_amd64_5e1d7914318ec1b2 - 60 MB
+oem389.inf - hdxssthpbnb.inf_amd64_6cb9ff584bbced72 - 60 MB
+oem390.inf - hdxssthpbnb1.inf_amd64_fe94fbcbf95ab2dd - 60 MB
+oem7.inf - intcusb.inf_amd64_d97909364d9908a5 - 1 MB
+2023-09-24 12:06:05Z [Information]: Deletion of oem10.inf (intcdmic.inf_amd64_c6097727a94da534) succeeded.
+2023-09-24 12:06:05Z [Information]: Deletion of oem251.inf (rtkfilter.inf_amd64_a6fc2626024af2a9) succeeded.
+2023-09-24 12:06:06Z [Information]: Deletion of oem34.inf (seapo64ext.inf_amd64_7ff3d29d20e44a25) succeeded.
+2023-09-24 12:06:06Z [Information]: Deletion of oem345.inf (intcsdw.inf_amd64_8223958341e2df9d) succeeded.
+2023-09-24 12:06:07Z [Information]: Deletion of oem346.inf (intcsst.inf_amd64_7657b9ba69bd4e2a) succeeded.
+2023-09-24 12:06:07Z [Information]: Deletion of oem348.inf (intcbtau.inf_amd64_813aa78e6e9ced51) succeeded.
+2023-09-24 12:06:08Z [Information]: Deletion of oem35.inf (hdx_hpext_hsa.inf_amd64_6814df66a8c2787d) succeeded.
+2023-09-24 12:06:08Z [Information]: Deletion of oem351.inf (intelmvaextension.inf_amd64_1ec3665779931ec5) succeeded.
+2023-09-24 12:06:08Z [Information]: Deletion of oem352.inf (hdx_hpext_sr_forte2.inf_amd64_301633b04bb4d3df) succeeded.
+2023-09-24 12:06:08Z [Information]: Deletion of oem357.inf (hdx_hpext_apot_103c8981.inf_amd64_70aaf6d3189f8d09) succeeded.
+2023-09-24 12:06:09Z [Information]: Deletion of oem36.inf (hdx_hpext_sr_forte_hybrid.inf_amd64_5248c5c71928b280) succeeded.
+2023-09-24 12:06:09Z [Information]: Deletion of oem362.inf (hdx_hpext_apot_ac85_c.inf_amd64_803e2cc52fd52365) succeeded.
+2023-09-24 12:06:09Z [Information]: Deletion of oem375.inf (intcdmicextc_hp_00000000.inf_amd64_9f1828f8fed66813) succeeded.
+2023-09-24 12:06:09Z [Information]: Deletion of oem376.inf (intcdmicexts_hp_103c888c.inf_amd64_d75a9bbdd4494899) succeeded.
+2023-09-24 12:06:10Z [Information]: Deletion of oem377.inf (intcdmicextt_hp_103c888c.inf_amd64_875015009c47ecc5) succeeded.
+2023-09-24 12:06:10Z [Information]: Deletion of oem384.inf (intcdmicext_hp.inf_amd64_11f7edc0ee08c9b6) succeeded.
+2023-09-24 12:06:10Z [Information]: Deletion of oem385.inf (hdxacphpbnb.inf_amd64_d9b70288ae6d03f6) succeeded.
+2023-09-24 12:06:10Z [Information]: Deletion of oem386.inf (hdxhaphpbnb1.inf_amd64_eb5abc91788275f5) succeeded.
+2023-09-24 12:06:10Z [Information]: Deletion of oem387.inf (hdxhpbnb.inf_amd64_66e64eeb6d01ac81) succeeded.
+2023-09-24 12:06:11Z [Information]: Deletion of oem388.inf (hdxhpbnb1.inf_amd64_5e1d7914318ec1b2) succeeded.
+2023-09-24 12:06:11Z [Information]: Deletion of oem389.inf (hdxssthpbnb.inf_amd64_6cb9ff584bbced72) succeeded.
+2023-09-24 12:06:12Z [Information]: Deletion of oem390.inf (hdxssthpbnb1.inf_amd64_fe94fbcbf95ab2dd) succeeded.
+2023-09-24 12:06:12Z [Information]: Deletion of oem7.inf (intcusb.inf_amd64_d97909364d9908a5) succeeded.
+2023-09-24 12:06:12Z [Information]: Removed 23 packages from driver store.
+2023-09-24 12:06:19Z [Information]: Shutting down - reason UserClosing
+2023-09-24 12:07:45Z [Information]: ---------------------------------------------------------------
+2023-09-24 12:07:45Z [Information]: Rapr started
+2023-09-24 12:07:45Z [Information]: Scanning driver store...
+2023-09-24 12:07:57Z [Information]: Ready
+2023-09-24 12:08:09Z [Information]: Selected 1 Driver(s). Total size: 8 MB.
+oem20.inf - hpqkbsoftwarecompnent.inf_amd64_5c0b90ae6269072a - 8 MB
+2023-09-24 12:08:16Z [Information]: No drivers selected.
+2023-09-24 12:09:07Z [Information]: Shutting down - reason UserClosing
+2023-09-24 12:11:40Z [Information]: ---------------------------------------------------------------
+2023-09-24 12:11:40Z [Information]: Rapr started
+2023-09-24 12:11:40Z [Information]: Scanning driver store...
+2023-09-24 12:11:58Z [Information]: Ready
+2023-09-24 12:12:18Z [Information]: Selected 1 Driver(s). Total size: 8 MB.
+oem20.inf - hpqkbsoftwarecompnent.inf_amd64_5c0b90ae6269072a - 8 MB
+2023-09-24 12:12:58Z [Information]: Shutting down - reason UserClosing
+2023-09-24 12:15:36Z [Information]: ---------------------------------------------------------------
+2023-09-24 12:15:36Z [Information]: Rapr started
+2023-09-24 12:15:36Z [Information]: Scanning driver store...
+2023-09-24 12:15:47Z [Information]: Ready
+2023-09-24 12:15:52Z [Information]: Selected 1 Driver(s). Total size: 8 MB.
+oem20.inf - hpqkbsoftwarecompnent.inf_amd64_5c0b90ae6269072a - 8 MB
+2023-09-24 12:15:54Z [Information]: Shutting down - reason UserClosing
+2023-10-21 16:58:32Z [Information]: ---------------------------------------------------------------
+2023-10-21 16:58:32Z [Information]: Rapr started
+2023-10-21 16:58:32Z [Information]: Scanning driver store...
+2023-10-21 16:59:03Z [Information]: Ready
+2023-10-21 16:59:20Z [Information]: Selected 3 Driver(s). Total size: 25 MB.
+oem17.inf - cui_dch.inf_amd64_45df71b7424f5fad - 17 MB
+oem20.inf - hpqkbsoftwarecompnent.inf_amd64_5c0b90ae6269072a - 8 MB
+oem28.inf - hdbusext.inf_amd64_b103ce762cf56b26 - 59 KB
+2023-10-21 16:59:30Z [Information]: Selected 2 Driver(s). Total size: 17 MB.
+oem17.inf - cui_dch.inf_amd64_45df71b7424f5fad - 17 MB
+oem28.inf - hdbusext.inf_amd64_b103ce762cf56b26 - 59 KB
+2023-10-21 17:00:00Z [Information]: Deleting driver package(s)...
+oem17.inf - cui_dch.inf_amd64_45df71b7424f5fad - 17 MB
+oem28.inf - hdbusext.inf_amd64_b103ce762cf56b26 - 59 KB
+2023-10-21 17:00:01Z [Information]: Deletion of oem17.inf (cui_dch.inf_amd64_45df71b7424f5fad) succeeded.
+2023-10-21 17:00:01Z [Information]: Deletion of oem28.inf (hdbusext.inf_amd64_b103ce762cf56b26) succeeded.
+2023-10-21 17:00:01Z [Information]: Removed 2 packages from driver store.
+2023-10-21 17:00:02Z [Information]: Shutting down - reason UserClosing
+2023-10-21 17:05:26Z [Information]: ---------------------------------------------------------------
+2023-10-21 17:05:26Z [Information]: Rapr started
+2023-10-21 17:05:26Z [Information]: Scanning driver store...
+2023-10-21 17:05:46Z [Information]: Ready
+2023-10-21 17:05:48Z [Information]: Selected 1 Driver(s). Total size: 8 MB.
+oem20.inf - hpqkbsoftwarecompnent.inf_amd64_5c0b90ae6269072a - 8 MB
+2023-10-21 17:05:58Z [Information]: Shutting down - reason UserClosing
+2023-10-23 20:13:54Z [Information]: ---------------------------------------------------------------
+2023-10-23 20:13:54Z [Information]: Rapr started
+2023-10-23 20:13:54Z [Information]: Scanning driver store...
+2023-10-23 20:14:28Z [Information]: Ready
+2023-10-23 20:14:51Z [Information]: Selected 1 Driver(s). Total size: 8 MB.
+oem20.inf - hpqkbsoftwarecompnent.inf_amd64_5c0b90ae6269072a - 8 MB
+2023-10-23 20:14:55Z [Information]: Shutting down - reason UserClosing

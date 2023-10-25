@@ -1,0 +1,28 @@
+Rufus x64 v4.2.2074 (Portable)
+Windows version: Windows 10 (Unknown Edition 0xBC) x64 (Build 19045.3324)
+Syslinux versions: 4.07/2013-07-25, 6.04/pre1
+Grub versions: 0.4.6a, 2.06
+System locale ID: 0x0409 (en-US)
+Will use default UI locale 0x0409
+SetLGP: Successfully set NoDriveTypeAutorun policy to 0x0000009E
+Localization set to 'en-US'
+Notice: The ISO download feature has been deactivated because 'Check for updates' is disabled in your settings.
+Found 517 officially revoked UEFI bootloaders from embedded list
+Found 2351 additional revoked UEFI bootloaders from this system's SKUSiPolicy.p7b
+Found USB 2.0 device 'Kingston DataTraveler 2.0 USB Device' (0930:6545)
+1 device found
+Disk type: Removable, Disk size: 7.8GB, Sector size: 512 bytes
+Cylinders: 949, Tracks per cylinder: 255, Sectors per track: 63
+Partition type: GPT, NB Partitions: 1
+Disk GUID: {F97B7241-044D-4228-B098-D60628C7CED9}
+Max parts: 128, Start Offset: 17408, Usable = 7807367680 bytes
+Partition 1:
+  Type: Microsoft Basic Data Partition
+  Name: 'Basic data partition'
+  Detected File System: NTFS
+  ID: {C44700B4-E0F2-4EC0-9074-9E2FDFE1C439}
+  Size: 6 GB (6442450944 bytes)
+  Start Sector: 2048, Attributes: 0x0000000000000000
+Checking for Rufus updates...
+Checking release channel...
+No new release version found.
