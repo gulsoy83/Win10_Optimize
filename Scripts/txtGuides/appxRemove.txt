@@ -1,0 +1,4 @@
+Get-AppxProvisionedPackage -Online | Where-Object {$_.DisplayName -like "*lenovo*"}
+Remove-AppXProvisionedPackage -Online -PackageName <bla>
+
+Get-AppxPackage Microsoft.YourPhone -AllUsers | Remove-AppxPackage

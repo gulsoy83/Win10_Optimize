@@ -1,0 +1,2 @@
+system32 icine at.
+kisayol olarak da C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories icine at.

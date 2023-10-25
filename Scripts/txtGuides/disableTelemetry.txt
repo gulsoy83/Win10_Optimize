@@ -1,0 +1,5 @@
+Task Scheduler Library > Microsoft > Windows > Customer Experience Improvement Program.
+Disable the task named Consolidator.
+
+Task Scheduler Library > Microsoft\Windows\Application Experience. 
+Disable the task named Application Experience.
