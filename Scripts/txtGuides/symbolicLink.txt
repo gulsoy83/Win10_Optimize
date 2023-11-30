@@ -1,0 +1,1 @@
+mklink /D "C:\PS\Downloads" "C:\Users\*\Downloads"

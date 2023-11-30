@@ -1,0 +1,21 @@
+;Global arama
+Get-AppxProvisionedPackage -Online | Where-Object {$_.DisplayName -like "*lenovo*"}
+VEYA
+dism /online /get-provisionedappxpackages | select-string packagename | select-string xbox
+
+;Global kaldırma, geri donusu yok.
+Remove-AppXProvisionedPackage -Online -PackageName <bla>
+
+
+&----->
+
+;Kullanıcılar bazında arama
+Get-AppxPackage | select-string xbox
+VEYA
+Get-AppxPackage *xbox*
+
+;Kullanıcı veya kullanıcılar bazında kaldırma
+Get-AppxPackage Microsoft.YourPhone -AllUsers | Remove-AppxPackage
+
+;Geri yukleme
+Get-AppxPackage Microsoft.Xbox.TCUI -AllUsers| Foreach {Add-AppxPackage -DisableDevelopmentMode -Register "$($_.InstallLocation)\AppXManifest.xml"}
