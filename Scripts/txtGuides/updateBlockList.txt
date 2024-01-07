@@ -1,4 +1,0 @@
-prevent these. (they break IE)
-
-KB5031356 //october 23 cumulative update
-KB5032189

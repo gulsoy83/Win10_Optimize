@@ -1,3 +1,0 @@
-C:\Program Files\NetBeans 7.x\etc\netbeans.conf
->>
-netbeans_jdkhome="C:\Program Files\Java\jdk1.7xxxxx"
