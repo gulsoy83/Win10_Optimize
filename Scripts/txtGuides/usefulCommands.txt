@@ -1,0 +1,26 @@
+;index boyutu
+(Get-Item $env:programdata'\Microsoft\Search\Data\Applications\Windows\Windows.edb').length/1GB
+
+;disk blok size
+wmic volume get driveletter,blocksize
+
+;taskscheduler'i admin olarak acma
+psexec.exe -i -s %windir%\system32\mmc.exe /s taskschd.msc
+
+
+;eventlog
+Get-EventLog -LogName * | where {$_.Entries.Count -gt 0}
+Remove-EventLog -LogName "HP SFU Service"
+
+;powershell gecmisi temizle
+;Remove-Item (Get-PSReadlineOption).HistorySavePath
+
+;copy directory (https://www.petefreitag.com/blog/xcopy-tool-windows/)
+xcopy /E c:\source c:\dest
+
+;delete directory
+rmdir /s <directory>
+
+mountvol -h
+
+
