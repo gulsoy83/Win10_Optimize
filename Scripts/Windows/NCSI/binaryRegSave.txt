@@ -1,2 +1,0 @@
-reg save HKEY_LOCAL_MACHINE\.. *\binaryRegFileName
-reg restore HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\NlaSvc\Parameters\Internet *\binaryRegFileName
